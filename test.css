@@ -1,0 +1,36 @@
+.page-contain{
+    display: flex;
+    justify-content: space-evenly;
+}.data-card{
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+   
+}
+
+.Data-card{
+   width: 200px; 
+   height:200px;
+   background-color: gray;
+
+}
+a {
+    text-decoration: none;
+}
+.data-card:hover{
+    background-color: blueviolet;
+    height: 250px;
+    width: 250px;
+    transition: 1s;
+}
+.Data-card:hover{
+    background-color: blueviolet;
+    height: 250px;
+    width: 250px;
+    transition: 1s;
+}
+p{
+    color: gray;
+}
+
+
